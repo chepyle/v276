@@ -1,9 +1,9 @@
 ## PMLR Proceedings Initial Submission
 
 ### Conference Information
-- **Conference Name**: 
-- **Volume Number**: 
-- **Editors**: 
+- **Conference Name**: NeurIPS 2025 Competition Track (Neural Information Processing Systems, 39th)
+- **Volume Number**: 276
+- **Editors**: Tao Qin, Kun Zhang, Jes Frellsen
 
 ### Submission Checklist
 Please confirm that you have completed the following requirements by checking all the boxes:
